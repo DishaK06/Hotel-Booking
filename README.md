@@ -1,4 +1,10 @@
 <h1 align="center">Hotel Booking Data Analysis Project</h1>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />   
+</p>
+
 ## Business Problem:
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fever revenues and less-than-ideal hotel room use. Consequently, lowering cancellation rates is both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
 
